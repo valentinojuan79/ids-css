@@ -17,12 +17,12 @@ header {
 
 h1 {
   font-size: 44px;
-  margin-left: 32px;
+  margin-left: 36px;
 }
 
 nav {
   display: flex;
-  margin-right: 32px;
+  margin-right: 36px;
   margin-top: 40px;
   font-size: 20px;
   gap: 20px;
