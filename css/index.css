@@ -1,0 +1,39 @@
+body{
+    background: whitesmoke;
+    flex-direction: row;
+}
+
+.main-article{
+    height: auto;
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.img1{
+    height: auto;
+    width: 300px;
+}
+
+.article-1{
+    background: white;
+}
+
+.box{
+    background: white;
+}
+
+@media (max-width: 500px) {
+    .img1{
+    height: 80%;
+    width: 100px;
+}
+body{
+    background: whitesmoke;
+    flex-direction: column;
+}
+}
+
+
+
+
